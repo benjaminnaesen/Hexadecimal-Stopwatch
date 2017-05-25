@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  margin-top: 200px;
+}
+
+#timer {
+  font-family: "Ubuntu";
+  font-size: 3.5em;
+}
+
+#hex {
+  font-family: "Ubuntu";
+  font-size: 1.3em;
+}
+
+a {
+  font-family: "Ubuntu";
+  font-size: 0.6em;
+}
+
+button {
+  width: 100px;
+  height: 25px;
+}
+
+button:hover {
+  cursor: pointer;
+}
